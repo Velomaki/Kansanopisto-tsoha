@@ -18,3 +18,6 @@ Tavoitteena on luoda tietokantasovellus kuvitteelliselle kansanopistolle kurssie
 - teachers(nimi, tunnus/opnro)
 - programs (nimi, kuvaus, vastuuopettaja, opintopisteitä)
 - submits (kurssi, opiskelija, kesken/valmis, arvosana, op:t)
+
+
+test
